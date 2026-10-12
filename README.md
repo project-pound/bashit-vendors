@@ -8,6 +8,18 @@ Vendor-facing portal for current and past orders and payment summary.
 - Tracks payout and payment state.
 - Allows vendors to update work status in real time.
 
+## Demo credentials
+
+Use these seeded credentials for local demo login:
+
+- Username: `cakevendor`
+- Password: `vendor123`
+
+You can also use the other demo vendor accounts:
+
+- `foodvendor` / `vendor123`
+- `decorvendor` / `vendor123`
+
 ## Run
 
 ```bash
